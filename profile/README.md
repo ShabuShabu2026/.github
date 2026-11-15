@@ -2,6 +2,8 @@
 
 **Live service:** https://nasa-space-apps-seoul-two.vercel.app
 
+<img width="1160" height="648" alt="image" src="https://github.com/user-attachments/assets/ec1d6312-eb1d-429d-b8ac-6b246271639b" />
+
 HoneyMoon ranks landing sites at the lunar south pole and shows the best arrival day for each one. The user describes a trip, and the backend checks every hour of the planned stay for 72,297 candidate sites. This repository holds the backend and the frontend. It was built by Team 샤브샤브 for the NASA Space Apps Challenge 2026 (Seoul), challenge "Lunar Landing Site Navigator".
 
 ## Overview and implemented scope
@@ -46,19 +48,14 @@ Backend (`backend/`, FastAPI):
 
 ## Screenshots
 
-<!-- Put the image files in docs/screenshots/ and keep the file names below, or change the paths. -->
+**Search**
+<img width="2880" height="1980" alt="image" src="https://github.com/user-attachments/assets/8475bdfa-cb6b-4766-974c-0ee9df5d99d1" />
 
-**Search screen**
+**Compare**
+<img width="2880" height="1980" alt="image" src="https://github.com/user-attachments/assets/0db54b7e-c0a8-43db-8b73-55bebe0c9fe3" />
 
-![Search screen](docs/screenshots/01-search.png)
-
-**Ranked sites on the south pole map**
-
-![Ranked sites on the south pole map](docs/screenshots/02-results.png)
-
-**Site details (skyline, hourly timeline, score breakdown)**
-
-![Site details](docs/screenshots/03-site-details.png)
+**See why**
+<img width="2880" height="1980" alt="image" src="https://github.com/user-attachments/assets/b5a892c4-6434-4b8f-928f-c9290cf6bead" />
 
 ## Installation and run
 
