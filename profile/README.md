@@ -58,7 +58,7 @@ Backend (`backend/`, FastAPI):
 ## Screenshots
 
 **Search**
-<img width="2880" height="1980" alt="image" src="https://github.com/user-attachments/assets/8475bdfa-cb6b-4766-974c-0ee9df5d99d1" />
+<img width="2880" alt="image" src="https://github.com/user-attachments/assets/418566eb-7832-477c-a9f2-46821e12c876" />
 
 **Compare**
 <img width="2880" height="1980" alt="image" src="https://github.com/user-attachments/assets/0db54b7e-c0a8-43db-8b73-55bebe0c9fe3" />
