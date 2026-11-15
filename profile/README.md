@@ -8,12 +8,12 @@ HoneyMoon ranks landing sites at the lunar south pole and shows the best arrival
 
 ## Team
  
-| Team Leader | Team Member | Team Member |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d6c9689c-8822-47ee-9fde-d3fd7b6bb201" width="100" alt="Jimin Shin"> | <img src="https://github.com/user-attachments/assets/9ee29677-d817-464f-9d60-0aa6419e3087" width="100" alt="Sanghyun Kim"> | <img src="https://github.com/user-attachments/assets/4714c90b-c2d1-4266-83e6-2ac5c915b5be" width="100" alt="Youngeun Seol"> |
-| Jimin Shin | Sanghyun Kim | Youngeun Seol |
-| Frontend | Aerospace Engineer | Backend |
-| [zziminally](https://github.com/zziminally) | [sanghyunKimsam](https://github.com/sanghyunKimsam) | [0euun](https://github.com/0euun) |
+| Team | Team Leader | Team Member | Team Member |
+| :---: | :---: | :---: | :---: |
+| <img width="100" alt="shabushabu" src="https://github.com/user-attachments/assets/6d4b9541-569e-45ee-a630-eed27dc81502" /> | <img src="https://github.com/user-attachments/assets/d6c9689c-8822-47ee-9fde-d3fd7b6bb201" width="100" alt="Jimin Shin"> | <img src="https://github.com/user-attachments/assets/9ee29677-d817-464f-9d60-0aa6419e3087" width="100" alt="Sanghyun Kim"> | <img src="https://github.com/user-attachments/assets/4714c90b-c2d1-4266-83e6-2ac5c915b5be" width="100" alt="Youngeun Seol"> |
+| ShabuShabu | Jimin Shin | Sanghyun Kim | Youngeun Seol |
+| Food | Frontend | Aerospace Engineer | Backend |
+| [ShabuShabu2026](https://github.com/ShabuShabu2026) | [zziminally](https://github.com/zziminally) | [sanghyunKimsam](https://github.com/sanghyunKimsam) | [0euun](https://github.com/0euun) |
 
 ## Overview and implemented scope
 
